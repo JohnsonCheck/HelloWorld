@@ -1,2 +1,3 @@
 # HelloWorld
-I don't know how to describe it 
+This is my way to Computer;
+Here I am;
